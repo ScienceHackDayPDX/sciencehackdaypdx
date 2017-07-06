@@ -207,6 +207,10 @@ button {
 .navigation-link-teal:hover { background-color: #009b90; }
 
 /* Content - - - - - - - - - - */
+#banner {
+    max-width: 100%;
+}
+
 .on-top {
     position: relative;
     z-index: 2;
