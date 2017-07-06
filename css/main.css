@@ -86,7 +86,7 @@ button {
 /* Top Banner - - - - - - - - - - - */
 .sprinkle-background {
     width: 30rem;
-    padding: 20vh 0;
+    padding: 7vh 0;
     position: relative;
     opacity: 0;
     overflow: auto;
@@ -253,7 +253,7 @@ button {
 
 .about {
     display: table;
-    margin: 3rem 0;
+    margin: 0;
 }
 
 .about-description {
